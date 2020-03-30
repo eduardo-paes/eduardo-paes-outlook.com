@@ -1,2 +1,3 @@
-# eduardo-paes-outlook.com
-tindog
+# Tindog Website
+
+Link: https://eduardo-paes.github.io/tindog/
